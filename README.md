@@ -32,7 +32,7 @@ And the project is set you then run it on the browsers
 * Javascript
 
 ## Contact
-For any requiry or collaboration feel  free to contact tommybwah@gmail.com
+For any enquiry or collaboration feel  free to contact tommybwah@gmail.com
 
 ## License and Copyright
 Lincensed under [MIT license](license)
