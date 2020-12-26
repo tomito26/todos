@@ -30,6 +30,7 @@ And the project is set you then run it on the browsers
 * HTML5
 * CSS3
 * Javascript
+* Bootstrap4
 
 ## Contact
 For any enquiry or collaboration feel  free to contact tommybwah@gmail.com
